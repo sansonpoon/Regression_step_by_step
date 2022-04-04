@@ -8,4 +8,4 @@ We would like to analyse the dataset called `dataset.csv`. The dataset contains 
 - Please design and develop a regression model that explains column C, as a function of column A and B.
 
 **Important note**:
-Please do not use any machine learning libraries or packages to solve this section.
+Please do not use any machine learning libraries or packages to solve this task.
